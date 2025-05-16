@@ -14,12 +14,12 @@
 ### **Software Engineering**
 - **Full-Stack Development** (React/Node.js/Python)  
 - **DevOps & MLOps** (CI/CD, Docker, Kubernetes)  
-- **Security Engineering** (OWASP, Pentesting, Secure SDLC)
+- **Security Engineering** (OWASP, Pentesting)
 
 ### **Computational Chemistry**
 - **Pharmaceutical AI**: Drug discovery, Molecular property prediction  
 - **Bioinformatics**: Protein folding (AlphaFold), Genomic NLP  
-- **Quantum Mechanics**: DFT simulations, QM/ML hybrid models  
+- **Quantum Mechanics**: DFT simulations
 
 ![AI](https://img.shields.io/badge/AI-Research-FF6F00?logo=openai) ![FullStack](https://img.shields.io/badge/FullStack-Dev-61DAFB?logo=react) ![Security](https://img.shields.io/badge/Security-First-critical?logo=owasp)  
 
@@ -38,12 +38,12 @@
 🦠 Optimize **protein-ligand binding** using GNNs + molecular dynamics  
 
 ### **3. Build & Deploy Scalable Systems**  
-🌐 Architect **secure web platforms** for clinical AI tools (React + FastAPI + Auth0)  
+🌐 Architect **secure web platforms** (React + FastAPI + Auth0)  
 📦 Containerize **ML models** with Docker + ONNX runtime optimization  
 🚀 Deploy **distributed agent systems** on Kubernetes (Ray, Celery)  
 
 ### **4. Ensure Security & Compliance**  
-🔒 Implement **FDA/CE-IVD compliant** AI pipelines (21 CFR Part 11, ISO 13485)  
+🔒 Implement **FDA/CE-IVD compliant**
 📜 Design **audit trails** for model decisions in regulated environments  
 🛡️ Conduct **adversarial testing** on biomedical LLMs (prompt injection, data leakage)  
 
