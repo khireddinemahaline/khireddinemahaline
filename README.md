@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] | AI Developer & Software Engineer
+# 👋 Hi, I'm M'halaine Khir Eddine | AI Developer & Software Engineer
 
 **🚀 Building Secure, Scalable AI Systems for Pharma & Healthcare**  
 *ML/DL + NLP/LLMs | Full-Stack Development | Security-First Engineering*
@@ -33,24 +33,6 @@
 ✅ Conduct **threat modeling** for AI systems (data leakage, model poisoning).  
 📜 Ensure **GDPR/HIPAA** compliance in data pipelines.  
 
----
-
-## 🔐 **Security Checklist in My Projects**
-| Area | Practices |
-|------|-----------|
-| **Code** | SAST (SonarQube), Dependency Scanning (Snyk) |
-| **APIs** | OWASP Top 10 mitigation, Swagger/OpenAPI specs |
-| **Infra** | TLS/SSL, WAF (Cloudflare), Zero-Trust Architecture |
-| **AI/ML** | Model signing, Adversarial robustness testing |
-
----
-
-## 🌟 **Featured Projects**
-| Project | Description | Stack | Security Highlights |
-|---------|------------|-------|---------------------|
-| [DrugBot](https://...) | LLM for drug interactions | React, FastAPI, BioBERT | ✅ HIPAA-compliant data flows |
-| [ClinicGuard](https://...) | EHR security dashboard | Django, PostgreSQL, Auth0 | ✅ OWASP ASVS Level 2 |
-| [BioAgent](https://...) | Multi-agent research system | LangChain, AWS, React | ✅ IAM policies + encryption-at-rest |
 
 ---
 
@@ -73,9 +55,8 @@
 ---
 
 ## 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/...)  
-[![Blog](https://img.shields.io/badge/Blog-Security/AI-FF5722?logo=medium)](https://medium.com/...)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/khireddine-mhalaine/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:mhalaine.khireddine@gmail.com)  
 
 ---
 
