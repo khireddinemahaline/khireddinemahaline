@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M'halaine Khir Eddine | AI Developer & Software Engineer
+# 👋 Hi, I'm Khir Eddine M'halaine | AI Developer & Software Engineer
 
 **🚀 Building Secure, Scalable AI Systems for Pharma & Healthcare**  
 *ML/DL + NLP/LLMs | Full-Stack Development | Security-First Engineering*
@@ -33,12 +33,6 @@
 ✅ Conduct **threat modeling** for AI systems (data leakage, model poisoning).  
 📜 Ensure **GDPR/HIPAA** compliance in data pipelines.  
 
-
----
-
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&exclude_repo=security-research)  
 
 ---
 
