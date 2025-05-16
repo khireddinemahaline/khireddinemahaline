@@ -60,16 +60,39 @@
 ---
 
 ## 🛠️ **Tech Stack**
-### **AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?logo=huggingface)  
 
-### **Full-Stack**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)  
+### **1. Software Engineering**
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)  
 
-### **Security**
-![OWASP](https://img.shields.io/badge/OWASP-000000?logo=owasp) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform) ![Vault](https://img.shields.io/badge/Vault-FFEC6E?logo=vault)  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) 
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)  
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?logo=github-actions) ![Agile](https://img.shields.io/badge/Agile-009688?logo=agile) ![Git](https://img.shields.io/badge/Git-F05032?logo=git)  
 
 ---
+
+### **2. AI/ML/DL**
+**Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn)  
+
+**Agentic AI:**  
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?logo=langchain) ![AutoGen](https://img.shields.io/badge/AutoGen-MultiAgent-blue) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-orange)  
+
+---
+
+### **3. Computational Chemistry & Quantum Mechanics**
+**Cheminformatics:**  
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-003366) ![ChEMBL](https://img.shields.io/badge/ChEMBL-Database-5D3BAD)  
+
+**Molecular Modeling:**  
+![AutoDock](https://img.shields.io/badge/AutoDock-Docking_Simulations-556B2F) ![GROMACS](https://img.shields.io/badge/GROMACS-MD_Simulations-AB7B32)  
+
+**Quantum:**  
+![Qiskit](https://img.shields.io/badge/Qiskit-Quantum_Computing-6929C4) ![PySCF](https://img.shields.io/badge/PySCF-Quantum_Chemistry-4B8BBE)  
 
 ## 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/khireddine-mhalaine/)  
