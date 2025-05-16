@@ -14,24 +14,47 @@
 ### **Software Engineering**
 - **Full-Stack Development** (React/Node.js/Python)  
 - **DevOps & MLOps** (CI/CD, Docker, Kubernetes)  
-- **Security Engineering** (OWASP, Pentesting, Secure SDLC)  
+- **Security Engineering** (OWASP, Pentesting, Secure SDLC)
+
+### **Computational Chemistry**
+- **Pharmaceutical AI**: Drug discovery, Molecular property prediction  
+- **Bioinformatics**: Protein folding (AlphaFold), Genomic NLP  
+- **Quantum Mechanics**: DFT simulations, QM/ML hybrid models  
 
 ![AI](https://img.shields.io/badge/AI-Research-FF6F00?logo=openai) ![FullStack](https://img.shields.io/badge/FullStack-Dev-61DAFB?logo=react) ![Security](https://img.shields.io/badge/Security-First-critical?logo=owasp)  
 
 ---
 
-## 🛠️ **What I Do**
-### **1. AI/ML Systems**  
-⚗️ Design drug discovery pipelines with **LLM-powered knowledge graphs**.  
-🩺 Build **HIPAA-compliant** clinical NLP tools (de-identification, diagnosis support).  
+## 🛠️ **What I Do**  
 
-### **2. Full-Stack Engineering**  
-🌐 Develop secure web apps for healthcare (React + FastAPI/Django).  
-🔒 Implement **auth** (OAuth2, JWT), **encryption** (AES-256), and **API security** (rate limiting, input sanitization).  
+### **1. Design Agentic AI Systems**  
+🤖 Build **multi-agent frameworks** for drug discovery (agent specialization: literature review + molecular analysis)  
+🌐 Develop **LLM/VLM agents** with tool-use (Python exec, API calls, RAG over research papers)  
+🔌 Create **autonomous lab assistants** integrating with robotic systems (LabAutomation APIs)  
 
-### **3. Security & Compliance**  
-✅ Conduct **threat modeling** for AI systems (data leakage, model poisoning).  
-📜 Ensure **GDPR/HIPAA** compliance in data pipelines.  
+### **2. Advance AI/ML in Life Sciences**  
+🧪 Train **domain-specific LLMs** on biomedical literature (PubMed, ClinicalTrials.gov)  
+⚛️ Combine **QM calculations with ML** for molecular property prediction  
+🦠 Optimize **protein-ligand binding** using GNNs + molecular dynamics  
+
+### **3. Build & Deploy Scalable Systems**  
+🌐 Architect **secure web platforms** for clinical AI tools (React + FastAPI + Auth0)  
+📦 Containerize **ML models** with Docker + ONNX runtime optimization  
+🚀 Deploy **distributed agent systems** on Kubernetes (Ray, Celery)  
+
+### **4. Ensure Security & Compliance**  
+🔒 Implement **FDA/CE-IVD compliant** AI pipelines (21 CFR Part 11, ISO 13485)  
+📜 Design **audit trails** for model decisions in regulated environments  
+🛡️ Conduct **adversarial testing** on biomedical LLMs (prompt injection, data leakage)  
+
+---
+
+## 🧪 **Computational Chemistry Focus**
+| Area | Tools/Approaches | Application |
+|------|-----------------|-------------|
+| **Drug Discovery** | DeepChem, RDKit, DiffDock | Virtual screening |
+| **Protein Engineering** | AlphaFold, ESM-2 | Stability optimization |
+| **QM/ML** | ORCA + PySCF, SchNet | Reaction barrier prediction |
 
 
 ---
